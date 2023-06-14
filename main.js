@@ -16,5 +16,5 @@ function myFunction() {
 //---  ---   
 
 function ejecutarMiBusqueda() {
-    let onClick = // Necesito pasarle a esta variable la cadena de texto que se mete dentro del recuadro de búsqueda y después redireccionar todo a un motor de búsqueda
-}
+    let onClick = "";// Necesito pasarle a esta variable la cadena de texto que se mete dentro del recuadro de búsqueda y después redireccionar todo a un motor de búsqueda
+};
